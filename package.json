@@ -1,0 +1,17 @@
+{
+  "name": "guess",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.3",
+    "readline-sync": "^1.4.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
